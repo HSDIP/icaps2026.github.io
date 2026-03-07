@@ -21,7 +21,7 @@ Shadow PC members will:
 
 - Review a selection of submitted papers
 - Participate in online discussions
-- Potentially take on the role of a senior program commitee member for a paper
+- Potentially take on the role of a senior program committee member for a paper
 - Produce acceptance recommendations (non-binding)
 - Receive feedback and mentorship on reviewing quality from senior researchers
 
