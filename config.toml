@@ -90,10 +90,10 @@ languageCode = 'en_US'
 #    parent = "students"
 #    weight = 200
 # ATTENDING
-  # [[menu.main]]
-  #   identifier = "attending"
-  #   name = "Attending"
-  #   weight = 3000
+  [[menu.main]]
+    identifier = "attending"
+    name = "Attending"
+    weight = 3000
   # [[menu.main]]
   #   identifier = "venue"
   #   name = "Venue"
@@ -136,12 +136,12 @@ languageCode = 'en_US'
 #    url = "/attending/info"
 #    parent = "attending"
 #    weight = "40"
-# [[menu.main]]
-#   identifier = "accommodation"
-#   name = "Accommodation"
-#   url = "/attending/accommodation"
-#   parent = "attending"
-#   weight = "40"
+  [[menu.main]]
+    identifier = "accommodation"
+    name = "Accommodation"
+    url = "/attending/accommodation"
+    parent = "attending"
+    weight = "40"
 #  [[menu.main]]
 #    identifier = "student-support"
 #    name = "Student Support"
