@@ -35,7 +35,7 @@ Please do not submit papers that are already accepted for the ICAPS main confere
 
 
 
-## Organizing and Program Committee
+## Committee
 
 - Daniel Höller, Saarland University, Germany
 - Nitay Alon, Hebrew University of Jerusalem, Israel
