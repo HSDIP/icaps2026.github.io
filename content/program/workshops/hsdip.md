@@ -6,9 +6,7 @@ draft: false
 
 # Workshop on Heuristics and Search for Domain-independent Planning (HSDIP 2026)
 
-ICAPS Workshop on Heuristics and Search for Domain-independent Planning (HSDIP 2026) \
-Dublin, Ireland \
-June 28-29, 2026
+## Important dates
 
 | Schedule            |          |
 |---------------------|----------|
@@ -16,7 +14,9 @@ June 28-29, 2026
 | Notification        | May 28, 2026|
 | Camera Ready        | June 8, 2026 |
 | Workshop            | June 28-29, 2026 |
+<br/>
 All deadlines are _AoE(UTC-12)_.
+<br/>
 
 ## Aim and Scope of the Workshop
 
@@ -53,8 +53,7 @@ Examples of typical topics for submissions to this workshop are:
 
 Please format submissions in AAAI style (see instructions in the Author Kit at https://aaai.org/authorkit25/). Long (up to 9 pages including references) and short (up to 5 pages including references) papers are the standard category, submissions shorter than the page limit are welcome. Long papers will be allocated a longer presentation at the workshop.
 
-Submissions will be made through OpenReview
-https://openreview.net/group?id=icaps-conference.org/ICAPS/2025/Workshop/HSDIP
+Submissions will be made through EasyChair: [Submission Website](https://easychair.org/conferences/?conf=icapshsdip2026)
 
 
 The following conditions apply:
