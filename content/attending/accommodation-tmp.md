@@ -26,6 +26,7 @@ If you want to book a longer stay with some nights outside this time interval, d
 
 In case you want to <strong>share accommodation</strong>, we provide a Discord server to get in touch with other attendants that you can share a room with: <a href="https://discord.gg/R32xdJKjHZ" target="_blank">Share Accommodation</a> <br>
 ICAPS does not manage this server. It is the responsibility of the participants to contact each other, find a room mate and complete all the steps of bedroom booking.
+_Antisocial behaviour is not acceptable on the Discord Server and should be reported via [email](mailto:rem.collier@ucd.ie) (please include the date/time and username of the offending post). If verified, the offending user will be blocked from the server._
 
 <br><br>
 
