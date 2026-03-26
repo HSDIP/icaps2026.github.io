@@ -28,6 +28,6 @@ The form requires the following information:
 * a recommendation letter (in PDF) signed by your supervisor/advisor;
 * other general information (details in the form)
 
-**The deadline for applying is April 12, 2026 (AoE)**. 
+**The deadline for applying is April 13, 2026 (AoE)**. 
 
-Notification is on April 20  (2 weeks before the early registration deadline). Scholarships will be provided to you as (partial) **reimbursement of travel and registration expenses** after the conference or as a **discounted registration fee**.
+Notification is on April 21  (2 weeks before the early registration deadline). Scholarships will be provided to you as (partial) **reimbursement of travel and registration expenses** after the conference or as a **discounted registration fee**.
