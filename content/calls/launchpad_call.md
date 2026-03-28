@@ -1,6 +1,6 @@
 ---
 title: "LaunchPad Workshop"
-date: 2022-09-29T13:38:14+02:00
+date: 2026-03-28T11:08:14+02:00
 draft: false
 ---
 # ICAPS 2026 LaunchPad Workshop – Call for Applications
