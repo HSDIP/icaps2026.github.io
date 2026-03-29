@@ -1,6 +1,6 @@
 ---
 title: "LaunchPad Workshop"
-date: 2022-09-29T13:38:14+02:00
+date: 2026-03-28T11:08:14+02:00
 draft: false
 ---
 # ICAPS 2026 LaunchPad Workshop – Call for Applications
@@ -99,11 +99,11 @@ Students who require an early decision for visa purposes will be able to contact
 
 All deadlines will use **UTC-12** as the reference timezone (i.e., the deadline has not passed as long as there is still time anywhere in the world). Final dates will be announced on the ICAPS 2026 “Dates” and LaunchPad pages.
 
-- **Application submission deadline:** March 9, 2026  
+- **Application submission deadline:** ~~March 9, 2026~~  
 - **Notification date:**  March 27, 2026
 - **LaunchPad Workshop at ICAPS 2026:** June 27, 2026  
 
-Applications submitted after March 9 may still be considered, if places remain available. However, priority for any available student support/funding will be given to applications submitted by the deadline.
+~~Applications submitted after March 9 may still be considered, if places remain available. However, priority for any available student support/funding will be given to applications submitted by the deadline.~~
 
 ---
 
