@@ -6,6 +6,9 @@ draft: false
 
 # Conference Registration
 
+Early registration deadline is May 5th 2026.  The link to the registration system will be provided shortly.
+
+Here are the fees in euros:
 
 <table style="border-collapse: collapse; width: 100%; max-width: 600px; font-family: Arial, sans-serif; font-size: 14px;">
   <thead>
