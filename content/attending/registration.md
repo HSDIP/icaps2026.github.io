@@ -14,26 +14,26 @@ Here are the fees in Euro:
   <thead>
     <tr>
       <th style="border: 1px solid #ccc; padding: 10px; text-align: left; background: #f5f5f5;">
-        Registration Fee
+        Category
       </th>
       <th style="border: 1px solid #ccc; padding: 10px; text-align: right; background: #f5f5f5;">
-        Early Registration
+        Early Registration Fee
       </th>
       <th style="border: 1px solid #ccc; padding: 10px; text-align: right; background: #f5f5f5;">
-        Late Registration
+        Late Registration Fee
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #ccc; padding: 10px;">Students</td>
-      <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">690 €</td>
-      <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">790 €</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ccc; padding: 10px;">Regular</td>
+      <td style="border: 1px solid #ccc; padding: 10px;">Non Student</td>
       <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">890 €</td>
       <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">990 €</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px;">Student</td>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">690 €</td>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: right;">790 €</td>
     </tr>
   </tbody>
 </table>
