@@ -5,11 +5,11 @@
             "people": [
 					  {
 					    "name": "Diego Aineto",
-					    "institution": "Università degli Studi di Brescia"
+					    "institution": "Universitat Politècnica de València"
 					  },
 					  {
 					    "name": "Zlatan Ajanovic",
-					    "institution": "TU Delft"
+					    "institution": "UAS Technikum Wien"
 					  },
 					  {
 					    "name": "Alexandre Albore",
@@ -109,7 +109,7 @@
 					  },
 					  {
 					    "name": "Janaka Brahmanage",
-					    "institution": "University of Moratuwa"
+					    "institution": "Singapore Management University"
 					  },
 					  {
 					    "name": "Daniel Bramblett",
@@ -245,7 +245,7 @@
 					  },
 					  {
 					    "name": "Yingjie Fan",
-					    "institution": "Erasmus University"
+					    "institution": "Leiden University"
 					  },
 					  {
 					    "name": "Cheng Fang",
@@ -309,7 +309,7 @@
 					  },
 					  {
 					    "name": "Daniel Gnad",
-					    "institution": "Linköping University"
+					    "institution": "Heidelberg University and Linköping University"
 					  },
 					  {
 					    "name": "Shivam Goel",
@@ -409,7 +409,7 @@
 					  },
 					  {
 					    "name": "Erez Karpas",
-					    "institution": "Technion"
+					    "institution": "Technion - Israel Institute of Technology"
 					  },
 					  {
 					    "name": "Michael Katz",
@@ -449,7 +449,7 @@
 					  },
 					  {
 					    "name": "Ryo Kuroiwa",
-					    "institution": "University of Toronto"
+					    "institution": "National Institute of Informatics"
 					  },
 					  {
 					    "name": "Gerhard Lakemeyer",
@@ -713,7 +713,7 @@
 					  },
 					  {
 					    "name": "Oren Salzman",
-					    "institution": "Technion"
+					    "institution": "Technion - Israel Institute of Technology"
 					  },
 					  {
 					    "name": "Enrico Scala",
@@ -809,7 +809,7 @@
 					  },
 					  {
 					    "name": "Pieter Smet",
-					    "institution": "CODeS, KAHO Sint-Lieven"
+					    "institution": "KU Leuven"
 					  },
 					  {
 					    "name": "Stephen Smith",
@@ -869,7 +869,7 @@
 					  },
 					  {
 					    "name": "Sylvie Thiebaux",
-					    "institution": "ANU"
+					    "institution": "Australian National University; LAAS-CNRS, University of Toulouse"
 					  },
 					  {
 					    "name": "Álvaro Torralba",
@@ -961,7 +961,7 @@
 					  },
 					  {
 					    "name": "Eyal Weiss",
-					    "institution": "Bar-Ilan University"
+					    "institution": "Technion - Israel Institute of Technology"
 					  },
 					  {
 					    "name": "Jeremy Wyatt",
@@ -1090,7 +1090,7 @@
 				  },
 				  {
 				    "name": "Timo P. Gros",
-				    "institution": "Saarland University"
+				    "institution": "German Research Center for Artificial Intelligence (DFKI)"
 				  },
 				  {
 				    "name": "Claudia Grundke",
@@ -1102,7 +1102,7 @@
 				  },
 				  {
 				    "name": "Hayyan Helal",
-				    "institution": "RWTH Aachen"
+				    "institution": "RWTH Aachen University"
 				  },
 				  {
 				    "name": "Pascal Held",
@@ -1143,6 +1143,10 @@
 				  {
 				    "name": "Kristina Levina",
 				    "institution": "Linköping University"
+				  },
+				  {
+				    "name": "Aaron Lin",
+				    "institution": "University of Kentucky"
 				  },
 				  {
 				    "name": "Jiajing Ling",
@@ -1298,7 +1302,7 @@
 				  },
 				  {
 				    "name": "Tarik Viehmann",
-				    "institution": "KBSG"
+				    "institution": "RWTH Aachen University"
 				  },
 				  {
 				    "name": "Davide Villaboni",
@@ -1330,7 +1334,7 @@
 				  },
 				  {
 				    "name": "Dean Zadok",
-				    "institution": "Technion"
+				    "institution": "Technion - Israel Institute of Technology"
 				  },
 				  {
 				    "name": "Duo Zhang",
