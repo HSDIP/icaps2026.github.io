@@ -16,4 +16,4 @@ Planning and Scheduling are optimisation problems which require finding a set of
 **ICAPS 2026** is the 36th edition of the ICAPS conference series and will take place in Dublin, Ireland from June 27 to July 2, 2026. The conference venue is the <a href="https://www.claytonhotels.com/burlington-road-conferences/" target="_blank">Clayton Hotel Burlington Road</a>.
 
 
-<!-- {{< sponsors_table_json "sponsors/sponsors.json" >}}-->
+{{< sponsors_table_json "sponsors/sponsors.json" >}}
