@@ -573,7 +573,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">17:00 – 17:20 — Industry Forum</div>
+<div class="special-event">17:00 – 17:20 — Industry Forum: Hexaly talk</div>
 
 <div class="special-event">17:20 – 18:30 — Poster and Demo Session</div>
 
