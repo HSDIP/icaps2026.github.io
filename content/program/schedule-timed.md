@@ -392,17 +392,17 @@ draft: false
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">13:15</strong> <span style="color: #c00; font-size: 0.8em;">(time TBC)</span> &nbsp; <strong>Online Learning for Decentralized Multi-Agent Planning in Repeated Hedonic Skill Games</strong><br/>
+<strong style="color: #f5821f;">13:45</strong> &nbsp; <strong>Online Learning for Decentralized Multi-Agent Planning in Repeated Hedonic Skill Games</strong><br/>
 <em>Jaber Valizadeh and Ray Telikani</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">13:30</strong> <span style="color: #c00; font-size: 0.8em;">(time TBC)</span> &nbsp; <strong>Towards a Unified View of Social Laws with Instantaneous Actions</strong><br/>
+<strong style="color: #f5821f;">14:00</strong> &nbsp; <strong>Towards a Unified View of Social Laws with Instantaneous Actions</strong><br/>
 <em>Alexander Tuisov, Evgeny Mishlyakov, Alexander Shleyfman and Erez Karpas</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">13:40</strong> &nbsp; <strong>Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning</strong><br/>
+<strong style="color: #f5821f;">14:10</strong> &nbsp; <strong>Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning</strong><br/>
 <em>Nhat Nguyen, Duong Nguyen, Gianluca Rizzo and Hung Nguyen</em>
 </div>
 
@@ -425,17 +425,17 @@ draft: false
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">13:15</strong> <span style="color: #c00; font-size: 0.8em;">(time TBC)</span> &nbsp; <strong>Learning Numeric Action Models with Anytime Guarantees</strong><br/>
+<strong style="color: #f5821f;">13:45</strong> &nbsp; <strong>Learning Numeric Action Models with Anytime Guarantees</strong><br/>
 <em>Diego Aineto and Enrico Scala</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">13:30</strong> <span style="color: #c00; font-size: 0.8em;">(time TBC)</span> &nbsp; <strong>Learning Lifted Action Models from Unsupervised Visual Traces</strong><br/>
+<strong style="color: #f5821f;">14:00</strong> &nbsp; <strong>Learning Lifted Action Models from Unsupervised Visual Traces</strong><br/>
 <em>Kai Xi, Stephen Gould and Sylvie Thiebaux</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">13:45</strong> &nbsp; <strong>On Sample-Efficient Generalized Planning via Learned Transition Models</strong><br/>
+<strong style="color: #f5821f;">14:20</strong> &nbsp; <strong>On Sample-Efficient Generalized Planning via Learned Transition Models</strong><br/>
 <em>Nitin Gupta, Vishal Pallagani, John A. Aydin and Biplav Srivastava</em>
 </div>
 
@@ -446,12 +446,12 @@ draft: false
 <div class="session-block">
 
 <div class="paper-item">
-<strong style="color: #f5821f;">14:00</strong> &nbsp; <strong>Optimal Solutions for the Moving Target Vehicle Routing Problem via Branch-and-Price with Relaxed Continuity</strong><br/>
+<strong style="color: #f5821f;">14:30</strong> &nbsp; <strong>Optimal Solutions for the Moving Target Vehicle Routing Problem via Branch-and-Price with Relaxed Continuity</strong><br/>
 <em>Anoop Bhat, Geordan Gutow, Zhongqiang Ren, Sivakumar Rathinam and Howie Choset</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">14:15</strong> &nbsp; <strong>Optimal Path Planning in Hostile Environments</strong><br/>
+<strong style="color: #f5821f;">14:45</strong> &nbsp; <strong>Optimal Path Planning in Hostile Environments</strong><br/>
 <em>Andrzej Kaczmarczyk, Šimon Schierreich, Nicholas Axel Tanujaya and Haifeng Xu</em>
 </div>
 
@@ -462,12 +462,12 @@ draft: false
 <div class="session-block">
 
 <div class="paper-item">
-<strong style="color: #f5821f;">14:00</strong> &nbsp; <strong>A Constraint Formulation for Domain Repair with Ground or Lifted Test Plans</strong><br/>
+<strong style="color: #f5821f;">14:30</strong> &nbsp; <strong>A Constraint Formulation for Domain Repair with Ground or Lifted Test Plans</strong><br/>
 <em>Nika Beriachvili and Arthur Bit-Monnot</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">14:15</strong> &nbsp; <strong>Automated Planning Instance Generation with Neuro-Symbolic AI</strong><br/>
+<strong style="color: #f5821f;">14:45</strong> &nbsp; <strong>Automated Planning Instance Generation with Neuro-Symbolic AI</strong><br/>
 <em>Carlos Núñez-Molina, Pablo Mesejo and Juan Fernández-Olivares</em>
 </div>
 
