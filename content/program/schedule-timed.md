@@ -580,7 +580,23 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">17:00 – 17:20 — Industry Forum: Hexaly talk — Plenary Room - Pembroke &amp; Herbert</div>
+<div class="time-slot">17:00 – 17:20 — Industry Forum</div>
+
+<div class="parallel-sessions">
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">Talk A: Eaton</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
+</div>
+</div>
+
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">Talk B: Hexaly</div>
+<div class="session-subheader">Breakout Room - Lansdowne</div>
+</div>
+</div>
+</div>
 
 <div class="special-event">17:20 – 18:30 — Poster and Demo Session — Fitzwilliam Suites &amp; Pre-Function Area</div>
 
