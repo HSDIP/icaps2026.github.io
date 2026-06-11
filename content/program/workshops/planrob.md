@@ -16,10 +16,7 @@ Paper submission deadline extended to 2nd of May, 2026.
 
 AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robots to perform autonomous, flexible, and interactive behaviors, but they must be tightly integrated into the overall robot architecture in order to be effective. This requires strong collaboration between researchers from both the AI and the Robotics communities. To foster this, the workshop aims to provide a stable, long-term forum where researchers from both the P&S and Robotics communities can openly discuss relevant issues such as research and development progress, future directions, and open challenges related to P&S when applied to Robotics. Recent advances in large-scale learning models, multimodal perception, and whole-body robotic systems are reshaping the landscape of planning and execution. The 2026 edition of PlanRob explicitly aims to address these emerging challenges, with a focus on integrating symbolic, geometric, and learning-based approaches for robust, scalable, and adaptive robot autonomy.
 
-## Program
-
-
-
+## Accepted Papers
 ## Invited Talk by [STEVE CHIEN](https://ai.jpl.nasa.gov/public/people/chien/)
 <img src="https://ai.jpl.nasa.gov/public/people/chien/images/chien.jpg" alt="Alt Text" width="300">
 
@@ -38,6 +35,39 @@ AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robot
 *Abstract*: Underwater gliders are workhorses of ocean sampling. They’re slow but energy-efficient, capable of operating for many months at sea. However, they're notoriously hard to pilot: glider dynamics are uncertain and strongly influenced by ocean currents (which are also hard to forecast), and glilders are only in contact with operators during brief surfacing windows between dives. Therefore the long-term autonomous operation of gliders fleets has remained largely aspirational, with most missions still leaning heavily on human pilots. In this talk I'll present GALE, the Glider Autonomy Long-term Planning Engine, which treats glider piloting as a stochastic shortest-path MDP and solves it online with Monte Carlo Tree Search (MCTS). The MCTS samples are drawn from a physics-informed simulator whose parameters are fitted to historical glider data, capturing both control-execution noise and ocean-current forecast uncertainty while staying cheap enough to roll out at every surfacing. I'll describe how the system was deployed in two North Sea missions totalling around three months and 1000 km of fully autonomous operation (to date the most extensive deployment of online glider navigation planning) and what we learned about where model-based probabilistic planning outperforms simpler baselines.
  
 *Bio-sketch*: Nick Hawes is a Professor of AI and Robotics in the [Department of Engineering Science](https://eng.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), where he directs the [Oxford Robotics Institute (ORI)](https://ori.ox.ac.uk/), a federation of eight research groups. He is also a Tutorial Fellow at [Pembroke College](https://pmb.ox.ac.uk/). Within ORI, he leads the [Goal-Oriented Autonomous Long-Lived Systems (GOALS)](https://ori.ox.ac.uk/groups/goals) group, researching sequential decision-making for autonomous systems and multi-agent teams. He has led world-first deployments of AI-controlled robots, including long-term autonomous mobile robots in care and security, quadrupeds inspecting active nuclear sites, and AUVs gathering data on underwater ecosystems. He is a member of the [UK Government's Robotics Advisory Group](https://www.gov.uk/government/groups/robotics-advisory-group), an Associate Editor of the [Journal of AI Research](https://www.jair.org/), a Senior Member of [AAAI](https://aaai.org/), and Chief Scientist of [Stateful Robotics](https://statefulrobotics.com/).
+
+## Program
+
+|| PlanRob Schedule         |          |
+||--------------------------|----------|
+|09.00| WS Introduction          | |
+|09.10| Keynote by Nick Hawes    | |
+|10.10|                          | |
+||--------------------------|----------|
+|10.20| Coffee Break             | |
+||--------------------------|----------|
+|10.50|                          | |
+|11.05|                          | |
+|11.20|                          | |
+|11.35|                          | |
+|11.50|                          | |
+|12.05|                          | |
+|12.20|                          | |
+||--------------------------|----------|
+|12.30| Lunch Break             | |
+||--------------------------|----------|
+|14.00| Keynote by Steve Chien | |
+|15.00|                          | |
+|15.15|                          | |
+||--------------------------|----------|
+|15.30| Coffee Break             | |
+||--------------------------|----------|
+|15.50|                          | |
+|16.05|                          | |
+|16.20|                          | |
+|16.35|                          | |
+|16.50|                          | |
+|17.05|                          | |
 
 ## Topics of Interest
 
