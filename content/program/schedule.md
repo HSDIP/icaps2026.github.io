@@ -103,6 +103,27 @@ draft: false
     cursor: pointer;
     color: #666;
 }
+.paper-item.award {
+    background-color: #fff4e6;
+    border: 1px solid #f5821f;
+    border-left: 4px solid #f5821f;
+    border-radius: 6px;
+    padding: 10px 12px;
+}
+.award-badge {
+    display: inline-block;
+    background-color: #f5821f;
+    color: white;
+    font-size: 0.72em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 2px 8px;
+    border-radius: 10px;
+    margin-left: 8px;
+    vertical-align: middle;
+    white-space: nowrap;
+}
 </style>
 
 ---
@@ -343,8 +364,8 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <em>Mauricio Salerno, Raquel Fuentetaja and Jendrik Seipp</em>
 </div>
 
-<div class="paper-item">
-<strong style="color: #f5821f;">10:55</strong> &nbsp; <strong>Potential Heuristics as Real-Valued Multilinear Polynomials</strong><br/>
+<div class="paper-item award">
+<strong style="color: #f5821f;">10:55</strong> &nbsp; <strong>Potential Heuristics as Real-Valued Multilinear Polynomials</strong> <span class="award-badge">Best Paper Runner-Up</span><br/>
 <em>Augusto B. Corrêa, Simon Dold and Malte Helmert</em>
 </div>
 
@@ -361,8 +382,8 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="session-header">Session 1B: Applications I</div>
 <div class="session-subheader">Breakout Room - Lansdowne</div>
 
-<div class="paper-item">
-<strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>GPMS: A Generalized Parallel Machine Scheduling Framework with Rich Temporal and Resource Constraints</strong><br/>
+<div class="paper-item award">
+<strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>GPMS: A Generalized Parallel Machine Scheduling Framework with Rich Temporal and Resource Constraints</strong> <span class="award-badge">Best Student Paper Runner-Up</span><br/>
 <em>Lukas Frühwirth, Christoph Einspieler, Nysret Musliu and Felix Winter</em>
 </div>
 
@@ -442,8 +463,8 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <em>Diego Aineto and Enrico Scala</em>
 </div>
 
-<div class="paper-item">
-<strong style="color: #f5821f;">14:00</strong> &nbsp; <strong>Learning Lifted Action Models from Unsupervised Visual Traces</strong><br/>
+<div class="paper-item award">
+<strong style="color: #f5821f;">14:00</strong> &nbsp; <strong>Learning Lifted Action Models from Unsupervised Visual Traces</strong> <span class="award-badge">Best Paper</span><br/>
 <em>Kai Xi, Stephen Gould and Sylvie Thiebaux</em>
 </div>
 
@@ -534,27 +555,27 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">15:00</strong> &nbsp; <strong>Leveraging the Value of Information in POMDP Planning</strong><br/>
+<strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>Leveraging the Value of Information in POMDP Planning</strong><br/>
 <em>Zakariya Laouar, Qi Heng Ho and Zachary Sunberg</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">15:15</strong> &nbsp; <strong>Memory Assignment for Finite-Memory Strategies in Adversarial Patrolling Games</strong><br/>
+<strong style="color: #f5821f;">15:45</strong> &nbsp; <strong>Memory Assignment for Finite-Memory Strategies in Adversarial Patrolling Games</strong><br/>
 <em>Vojtěch Kůr, Vít Musil and Vojtěch Řehák</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>Planning under Distribution Shifts with Causal POMDPs</strong><br/>
+<strong style="color: #f5821f;">16:00</strong> &nbsp; <strong>Planning under Distribution Shifts with Causal POMDPs</strong><br/>
 <em>Matteo Ceriscioli and Karthika Mohan</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">15:40</strong> &nbsp; <strong>Algorithms for Deciding the Safety of States in Fully Observable Non-deterministic Problems</strong><br/>
+<strong style="color: #f5821f;">16:10</strong> &nbsp; <strong>Algorithms for Deciding the Safety of States in Fully Observable Non-deterministic Problems</strong><br/>
 <em>Johannes Schmalz and Chaahat Jain</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">15:50</strong> &nbsp; <strong>Constrained and Robust Policy Synthesis with Satisfiability-Modulo-Probabilistic-Model-Checking</strong><br/>
+<strong style="color: #f5821f;">16:20</strong> &nbsp; <strong>Constrained and Robust Policy Synthesis with Satisfiability-Modulo-Probabilistic-Model-Checking</strong><br/>
 <em>Linus Heck, Filip Macák, Milan Češka and Sebastian Junges</em>
 </div>
 
@@ -567,22 +588,22 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="session-subheader">Breakout Room - Lansdowne</div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">15:00</strong> &nbsp; <strong>Scalable Algorithms with Provable Optimality Bounds for the Multiple Watchman Route Problem</strong><br/>
+<strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>Scalable Algorithms with Provable Optimality Bounds for the Multiple Watchman Route Problem</strong><br/>
 <em>Srikar Gouru, Ariel Felner and Jiaoyang Li</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">15:15</strong> &nbsp; <strong>H-ANTS: Hierarchical Ant System with Insert-and-Prune Charging for Capacitated Electric Vehicle Routing</strong><br/>
+<strong style="color: #f5821f;">15:45</strong> &nbsp; <strong>H-ANTS: Hierarchical Ant System with Insert-and-Prune Charging for Capacitated Electric Vehicle Routing</strong><br/>
 <em>Chuyin Peng, Feng-Feng Wei and Wei-Neng Chen</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>EMOA*: A Framework for Search-Based Multi-Objective Path Planning</strong><br/>
+<strong style="color: #f5821f;">16:00</strong> &nbsp; <strong>EMOA*: A Framework for Search-Based Multi-Objective Path Planning</strong><br/>
 <em>Zhongqiang Ren, Carlos Hernández, Maxim Likhachev, Ariel Felner, Sven Koenig, Oren Salzman, Sivakumar Rathinam and Howie Choset</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">15:45</strong> &nbsp; <strong>Learning-Guided Simulated Annealing for the Capacitated Vehicle Routing Problem</strong><br/>
+<strong style="color: #f5821f;">16:15</strong> &nbsp; <strong>Learning-Guided Simulated Annealing for the Capacitated Vehicle Routing Problem</strong><br/>
 <em>Jules Andretti, Jérémie Cabessa and Yann Strozecki</em>
 </div>
 
@@ -594,12 +615,12 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="session-block">
 
 <div class="paper-item">
-<strong style="color: #f5821f;">16:00</strong> &nbsp; <strong>Complete and Optimal Robust Planning against Nature</strong><br/>
+<strong style="color: #f5821f;">16:30</strong> &nbsp; <strong>Complete and Optimal Robust Planning against Nature</strong><br/>
 <em>Lukas Chrpa and Erez Karpas</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">16:30</strong> &nbsp; <strong>AUPO – Abstracted Until Proven Otherwise: A Reward Distribution Based Abstraction Algorithm</strong><br/>
+<strong style="color: #f5821f;">16:45</strong> &nbsp; <strong>AUPO – Abstracted Until Proven Otherwise: A Reward Distribution Based Abstraction Algorithm</strong><br/>
 <em>Robin Schmöcker, Alexander Dockhorn and Bodo Rosenhahn</em>
 </div>
 
@@ -610,12 +631,12 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="session-block">
 
 <div class="paper-item">
-<strong style="color: #f5821f;">16:00</strong> &nbsp; <strong>Multi-Neighborhood Simulated Annealing for the Oven Scheduling Problem</strong><br/>
+<strong style="color: #f5821f;">16:30</strong> &nbsp; <strong>Multi-Neighborhood Simulated Annealing for the Oven Scheduling Problem</strong><br/>
 <em>Francesca Da Ros, Luca Di Gaspero, Marie-Louise Lackner, Nysret Musliu and Felix Winter</em>
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">16:30</strong> &nbsp; <strong>Learning Distributed Scheduling via LLM-Augmented Reinforcement Learning</strong><br/>
+<strong style="color: #f5821f;">16:45</strong> &nbsp; <strong>Learning Distributed Scheduling via LLM-Augmented Reinforcement Learning</strong><br/>
 <em>Yun Liu, Yuqi Feng, Jiahao Fan, Shangce Gao and Yanan Sun</em>
 </div>
 
@@ -875,8 +896,8 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <em>Jakub Med, Mohammad Yousefi, Lukas Chrpa and Pascal Bercher</em>
 </div>
 
-<div class="paper-item">
-<strong style="color: #f5821f;">10:45</strong> &nbsp; <strong>I Always Told My Mom That Order Is Overrated: Unordered HTN Planning is in PSPACE and Models Problems Beyond STRIPS</strong><br/>
+<div class="paper-item award">
+<strong style="color: #f5821f;">10:45</strong> &nbsp; <strong>I Always Told My Mom That Order Is Overrated: Unordered HTN Planning is in PSPACE and Models Problems Beyond STRIPS</strong> <span class="award-badge">Best Student Paper</span><br/>
 <em>Pascal Lauer, Yifan Zhang, Patrik Haslum and Pascal Bercher</em>
 </div>
 
