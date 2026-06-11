@@ -54,7 +54,7 @@ AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robot
 ## PlanRob Schedule (Draft to be confirmed)
 
 * 09.00 **WS Introduction** <br>
-* 09.10 **Keynote talk by Nick Hawes** <br>
+* 09.10 **Keynote talk by <a href="https://github.com/pstlab/icaps2026.github.io.planrob/blob/main/content/program/workshops/planrob.md#invited-talk-by-nick-hawes">Nick Hawes</a>** <br>
 * 10.10 Emanuele Musumeci, Abdel Hakim Drid and Daniele Nardi, Rob-LAPIS: Grounding Verbal Household Robot Instructions via Iterative PDDL Synthesis <br>
 * 10.20 **Coffee Break** <br>
 * 10.50 Eyal Tadmor, Erez Karpas and Marc Toussaint, Data-Driven Metareasoning in Search in Infinite Completion Trees for Task and Motion Planning<br>
