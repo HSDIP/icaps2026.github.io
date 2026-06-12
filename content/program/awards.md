@@ -6,7 +6,7 @@ draft: false
 
 # ICAPS 2026 Outstanding Paper Awards
 
-The award adjudication process consisted of three steps. Accepted submissions were split into the student and general categories. Each set of papers was sorted in descending order of their review scores, using the scores attained by the end of the reviewing period. The two top papers in each category were then presented to the ICAPS 2026 topic chairs for evaluation, who then cast a vote to determine the winner and provided a rationale for their decision. **Neither conference nor program chairs were involved in the decision making of these awards.**
+The following papers were recognized with awards at ICAPS 2026.
 
 # Best Paper Award
 
