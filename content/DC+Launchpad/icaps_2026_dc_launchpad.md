@@ -67,6 +67,43 @@ Together, both the DC and the LaunchPad Workshop aim to:
     text-align: center;
     font-weight: bold;
 }
+.schedule-session {
+    margin: 20px 0;
+}
+.schedule-session .special-event {
+    margin-bottom: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.schedule-session ul.speaker-list {
+    list-style: none;
+    margin: 0 0 20px 0;
+    padding: 15px 20px;
+    background-color: #f7fbfd;
+    border: 1px solid #d6e9f2;
+    border-top: none;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 8px 24px;
+}
+.speaker-list li {
+    list-style: none;
+    position: relative;
+    padding-left: 18px;
+    line-height: 1.5;
+}
+.speaker-list li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.55em;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #f5821f;
+}
 </style>
 
 <div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
