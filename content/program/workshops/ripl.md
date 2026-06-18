@@ -27,23 +27,23 @@ Reliability of data-driven artifacts, in particular ML classifier robustness and
 - Invited Talk
 
 **10:00 - 10:30** Session 1 -- Multi-Agent Coordination under Uncertainty
-- Rolando Fernandez, Caleb Probine, Tyler Lee, Jeffrey Chen, Erez Karpas, Muhammad Arrasy Rahman, Peter Stone, and Ufuk Topcu – **Social Laws for Multi-agent Coordination in Stochastic Environments** [(bibtex)](/workshops/ripl/FernandezRIPL26.bib)
+- Rolando Fernandez, Caleb Probine, Tyler Lee, Jeffrey Chen, Erez Karpas, Muhammad Arrasy Rahman, Peter Stone, and Ufuk Topcu – **Social Laws for Multi-agent Coordination in Stochastic Environments** [(bibtex)](/files/workshops/ripl/FernandezRIPL26.bib)
 
 **10:30 - 10:50 Coffee Break**
 
 **10:50 - 12:30** Session 2 -- Neuro-Symbolic Policies and Their Verification
-- Dominik Drexler, Markus Fritzsche, Farid Musayev, and Simon Ståhlberg – **Prompt, Prove, Patch: The Neuro-Symbolic Loop for General Policy Synthesis** [(bibtex)](/workshops/ripl/DrexlerRIPL26.bib)
-- Farid Musayev, Dominik Drexler, Daniel Gnad, and Jendrik Seipp – **A Comparison of Sampling Strategies for Learning Policies** [(bibtex)](/workshops/ripl/MusayevRIPL26.bib)
-- Victor Scherer Putrich, Tim Nico Bauerschmidt, Chaahat Jain, Songtuan Lin, Joerg Hoffmann, and Isabel Valera – **Formula Neural Networks as Action Policies in Safety-Critical Planning: An Empirical Evaluation** [(bibtex)](/workshops/ripl/PutrichRIPL26.bib) (SoCS 2026 paper)
-- Marcel Schubert and Daniel Höller – **Safety Verification of Additive Tree Ensemble Policies via Symbolic Search** [(bibtex)](/workshops/ripl/SchubertRIPL26.bib)
+- Dominik Drexler, Markus Fritzsche, Farid Musayev, and Simon Ståhlberg – **Prompt, Prove, Patch: The Neuro-Symbolic Loop for General Policy Synthesis** [(bibtex)](/files/workshops/ripl/DrexlerRIPL26.bib)
+- Farid Musayev, Dominik Drexler, Daniel Gnad, and Jendrik Seipp – **A Comparison of Sampling Strategies for Learning Policies** [(bibtex)](/files/workshops/ripl/MusayevRIPL26.bib)
+- Victor Scherer Putrich, Tim Nico Bauerschmidt, Chaahat Jain, Songtuan Lin, Joerg Hoffmann, and Isabel Valera – **Formula Neural Networks as Action Policies in Safety-Critical Planning: An Empirical Evaluation** [(bibtex)](/files/workshops/ripl/PutrichRIPL26.bib) (SoCS 2026 paper)
+- Marcel Schubert and Daniel Höller – **Safety Verification of Additive Tree Ensemble Policies via Symbolic Search** [(bibtex)](/files/workshops/ripl/SchubertRIPL26.bib)
 
 **12:30 - 14:00 Lunch Break**
 
 **14:00 - 15:30** Session 3 -- Learning for Classical Planning
-- Mingyu Hao, Sylvie Thiebaux, and Felipe Trevizan – **Self-Supervised Improvement of Learned Search Guidance** [(bibtex)](/workshops/ripl/HaoRIPL26.bib)
-- Arnaud Lequen – **Learning Interpretable Classifiers for PDDL Planning** [(bibtex)](/workshops/ripl/LequenRIPL26.bib) (ECAI 2024 paper)
-- Mariam Musavi, Johannes K. Fichte, and Daniel Gnad – **Learning Object Priorities for Partial Grounding** [(bibtex)](/workshops/ripl/MusaviRIPL26.bib)
-- Windy Phung, Arnaud Lequen, Dominik Drexler, and Jendrik Seipp – **LLM-Evolved Pattern Generators for Optimal Classical Planning** [(bibtex)](/workshops/ripl/PhungRIPL26.bib)
+- Mingyu Hao, Sylvie Thiebaux, and Felipe Trevizan – **Self-Supervised Improvement of Learned Search Guidance** [(bibtex)](/files/workshops/ripl/HaoRIPL26.bib)
+- Arnaud Lequen – **Learning Interpretable Classifiers for PDDL Planning** [(bibtex)](/files/workshops/ripl/LequenRIPL26.bib) (ECAI 2024 paper)
+- Mariam Musavi, Johannes K. Fichte, and Daniel Gnad – **Learning Object Priorities for Partial Grounding** [(bibtex)](/files/workshops/ripl/MusaviRIPL26.bib)
+- Windy Phung, Arnaud Lequen, Dominik Drexler, and Jendrik Seipp – **LLM-Evolved Pattern Generators for Optimal Classical Planning** [(bibtex)](/files/workshops/ripl/PhungRIPL26.bib)
 
 **15:30 - 15:50 Coffee Break**
 
